@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "biome lint --apply .",
+    "fmt": "biome format . --write",
+    "dev": "vite",
+    "build": "vite build",
+    "build:ssr": "vite build --ssr",
+    "build:prod": "vite build && vite build --ssr",
+    "preview": "npm run build:prod && node bootstrap/ssr/ssr.mjs",
+    "clean": "rm -rf public/build bootstrap/ssr"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.7.3",
+    "@inertiajs-revamped/vue": "^0.0.6",
+    "@types/node": "^20.12.12",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vue/server-renderer": "^3.4.27",
+    "autoprefixer": "^10.4.19",
+    "laravel-vite-plugin": "^1.0.4",
+    "nanoid": "^5.0.7",
+    "postcss": "^8.4.38",
+    "postcss-import": "^16.1.0",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.12",
+    "vue": "^3.4.27"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
