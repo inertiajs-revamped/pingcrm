@@ -1,0 +1,87 @@
+{
+  "resources/application/ssr.tsx": [],
+  "resources/components/bottom-header.tsx": [
+    "/build/assets/layout-C6sDMM8X.js"
+  ],
+  "resources/components/file-input.tsx": [
+    "/build/assets/file-input-qcA5w6tN.js"
+  ],
+  "resources/components/flash-messages.tsx": [
+    "/build/assets/layout-C6sDMM8X.js"
+  ],
+  "resources/components/icon.tsx": [
+    "/build/assets/layout-C6sDMM8X.js"
+  ],
+  "resources/components/loading-button.tsx": [
+    "/build/assets/text-input-3oYGq4aA.js"
+  ],
+  "resources/components/logo.tsx": [
+    "/build/assets/logo-D3xV-gz5.js"
+  ],
+  "resources/components/main-menu.tsx": [
+    "/build/assets/layout-C6sDMM8X.js"
+  ],
+  "resources/components/pagination.tsx": [
+    "/build/assets/search-filter-C8t0kUFP.js"
+  ],
+  "resources/components/search-filter.tsx": [
+    "/build/assets/search-filter-C8t0kUFP.js"
+  ],
+  "resources/components/select-input.tsx": [
+    "/build/assets/select-input-hZIK0Hde.js"
+  ],
+  "resources/components/text-input.tsx": [
+    "/build/assets/text-input-3oYGq4aA.js"
+  ],
+  "resources/components/top-header.tsx": [
+    "/build/assets/layout-C6sDMM8X.js"
+  ],
+  "resources/components/trashed-message.tsx": [
+    "/build/assets/trashed-message-BJhylj7P.js"
+  ],
+  "resources/layouts/layout.tsx": [
+    "/build/assets/layout-C6sDMM8X.js"
+  ],
+  "resources/pages/auth/login.tsx": [
+    "/build/assets/login-ywJf0fXZ.js"
+  ],
+  "resources/pages/contacts/create.tsx": [
+    "/build/assets/create-CyF4qFc3.js"
+  ],
+  "resources/pages/contacts/edit.tsx": [
+    "/build/assets/edit-Br0HmCJO.js"
+  ],
+  "resources/pages/contacts/index.tsx": [
+    "/build/assets/index-Bd_YgyHz.js"
+  ],
+  "resources/pages/dashboard/index.tsx": [
+    "/build/assets/index-CnKPMxQG.js"
+  ],
+  "resources/pages/error.tsx": [
+    "/build/assets/error--Jl7G3WY.js"
+  ],
+  "resources/pages/organizations/create.tsx": [
+    "/build/assets/create-B5qe48ZL.js"
+  ],
+  "resources/pages/organizations/edit.tsx": [
+    "/build/assets/edit-Bi7_w-WQ.js"
+  ],
+  "resources/pages/organizations/index.tsx": [
+    "/build/assets/index-bcoHREXA.js"
+  ],
+  "resources/pages/reports/index.tsx": [
+    "/build/assets/index-VzRQPh_D.js"
+  ],
+  "resources/pages/users/create.tsx": [
+    "/build/assets/create-DAdnOdyY.js"
+  ],
+  "resources/pages/users/edit.tsx": [
+    "/build/assets/edit-xtRyAKgd.js"
+  ],
+  "resources/pages/users/index.tsx": [
+    "/build/assets/index-HYxgFU1s.js"
+  ],
+  "resources/utils/index.ts": [
+    "/build/assets/search-filter-C8t0kUFP.js"
+  ]
+}

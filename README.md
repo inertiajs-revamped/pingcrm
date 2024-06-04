@@ -13,6 +13,7 @@ View the docs at [inertiajs-revamped.com](https://inertiajs-revamped.com).
 
 ## Applications
 
+- [Ping CRM React](https://github.com/inertiajs-revamped/pingcrm/blob/main/pingcrm-react)
 - [Ping CRM Vue](https://github.com/inertiajs-revamped/pingcrm/blob/main/pingcrm-vue)
 
 ## Contributing
