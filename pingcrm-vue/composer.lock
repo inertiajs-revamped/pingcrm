@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "38bb05515a20fdf744ae6027822f74ec",
+    "content-hash": "50133c23c15d498bd0175a4f116697a6",
     "packages": [
         {
             "name": "brick/math",
@@ -1052,16 +1052,16 @@
         },
         {
             "name": "inertiajs-revamped/laravel",
-            "version": "v0.0.4",
+            "version": "v0.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/inertiajs-revamped/laravel.git",
-                "reference": "1af3165426d7aa15ced62a694e51064d441c0873"
+                "reference": "27a0d770563f562c9fbb7fabba820794ebf5d43a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/inertiajs-revamped/laravel/zipball/1af3165426d7aa15ced62a694e51064d441c0873",
-                "reference": "1af3165426d7aa15ced62a694e51064d441c0873",
+                "url": "https://api.github.com/repos/inertiajs-revamped/laravel/zipball/27a0d770563f562c9fbb7fabba820794ebf5d43a",
+                "reference": "27a0d770563f562c9fbb7fabba820794ebf5d43a",
                 "shasum": ""
             },
             "require": {
@@ -1116,9 +1116,9 @@
                 "vue"
             ],
             "support": {
-                "source": "https://github.com/inertiajs-revamped/laravel/tree/v0.0.4"
+                "source": "https://github.com/inertiajs-revamped/laravel/tree/v0.0.5"
             },
-            "time": "2024-05-19T03:06:44+00:00"
+            "time": "2024-06-28T04:21:07+00:00"
         },
         {
             "name": "intervention/image",
